@@ -1,6 +1,8 @@
 # Semi-Toroid Geometry — Analytical & Numerical Validation
 
 ![Logo](logo.jpg)
+
+
 **Mathematical derivations, reproducible code and numerical validation for a semi-toroidal (semi-torus) surface.**
 
 This repository contains:
